@@ -1,0 +1,63 @@
+about:
+  description: JavaScript toolchain for working with WebAssembly Components
+  license: Apache-2.0
+  homepage: https://bytecodealliance.github.io/jco/
+  head: 7c2d4b4
+  archived: false
+  latestVersion: preview2-shim-v0.23.0
+  collectedAt: 2026-09-04T05:00:04Z
+timeline:
+  created: 2022-12-09
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-24
+popularity:
+  star: 993
+  watcher: 13
+  fork: 133
+  release: 258
+  contributor: 85
+  pullRequest: 221
+  issue: 361
+language:
+  TypeScript: 2406506
+  Rust: 1705595
+  JavaScript: 425126
+  Just: 17180
+  Shell: 4738
+  Python: 3631
+  C++: 2435
+  C: 1169
+totalLine: 4566380
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 34
+    mergedPR: 164
+    openPR: 10
+    closedIssue: 12
+    openIssue: 0
+    commit: 588
+  last90d:
+    since: 2026-06-06
+    release: 100
+    mergedPR: 366
+    openPR: 10
+    closedIssue: 29
+    openIssue: 1
+    commit: 929
+  last180d:
+    since: 2026-03-08
+    release: 100
+    mergedPR: 606
+    openPR: 10
+    closedIssue: 59
+    openIssue: 1
+    commit: 1459
+  last360d:
+    since: 2025-09-09
+    release: 100
+    mergedPR: 799
+    openPR: 10
+    closedIssue: 89
+    openIssue: 2
+    commit: 1876
