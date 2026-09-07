@@ -1,0 +1,196 @@
+about:
+  description: "JavaScript toolchain for working with WebAssembly Components"
+  license: Apache-2.0
+  homepage: https://bytecodealliance.github.io/jco/
+  head: 118074e
+  archived: false
+  latestVersion: "preview2-shim-v0.24.0"
+  collectedAt: 2026-09-07T05:20:34Z
+timeline:
+  created: 2022-12-09
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
+popularity:
+  star: 998
+  watcher: 13
+  fork: 133
+  release: 260
+  contributor: 81
+  pullRequest: 1696
+  issue: 363
+language:
+  TypeScript: 2696904
+  Rust: 1773352
+  JavaScript: 459691
+  Just: 17180
+  Shell: 4738
+  Python: 3631
+  C++: 2435
+  C: 1169
+totalBytes: 4959100
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 34
+    mergedPR: 190
+    openPR: 8
+    closedIssue: 13
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-09
+    release: 61
+    mergedPR: 278
+    openPR: 8
+    closedIssue: 16
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-09
+    release: 100
+    mergedPR: 379
+    openPR: 8
+    closedIssue: 30
+    openIssue: 1
+    commit: 0
+  last180d:
+    since: 2026-03-11
+    release: 100
+    mergedPR: 629
+    openPR: 8
+    closedIssue: 61
+    openIssue: 1
+    commit: 0
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 821
+    openPR: 8
+    closedIssue: 90
+    openIssue: 2
+    commit: 0
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 1187
+    openPR: 8
+    closedIssue: 166
+    openIssue: 2
+    commit: 2368
+total:
+  release: 260
+  mergedPR: 1475
+  openPR: 8
+  closedIssue: 358
+  openIssue: 5
+  commit: 2819
+---
+path: /home/runner/.x-repo/github.com/bytecodealliance/jco
+collectedAt: 2026-09-07T05:21:15Z
+loc:
+  TypeScript:
+    code: 73133
+    comments: 15259
+    blanks: 8130
+    files: 788
+  Rust:
+    code: 34249
+    comments: 1448
+    blanks: 2924
+    files: 102
+  WebAssembly:
+    code: 31412
+    comments: 519
+    blanks: 569
+    files: 43
+  JavaScript:
+    code: 14492
+    comments: 1038
+    blanks: 2191
+    files: 228
+  Yaml:
+    code: 7744
+    comments: 0
+    blanks: 2020
+    files: 4
+  Json:
+    code: 1897
+    comments: 0
+    blanks: 6
+    files: 59
+  Toml:
+    code: 839
+    comments: 82
+    blanks: 117
+    files: 29
+  Html:
+    code: 119
+    comments: 30
+    blanks: 3
+    files: 3
+  Python:
+    code: 108
+    comments: 1
+    blanks: 51
+    files: 4
+  Sh:
+    code: 83
+    comments: 24
+    blanks: 24
+    files: 4
+  Cpp:
+    code: 76
+    comments: 0
+    blanks: 19
+    files: 4
+  C:
+    code: 21
+    comments: 13
+    blanks: 5
+    files: 3
+  Markdown:
+    code: 0
+    comments: 9606
+    blanks: 5049
+    files: 80
+total:
+  code: 164575
+  comments: 29878
+  blanks: 21575
+  files: 1351
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:21:18+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
