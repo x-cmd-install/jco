@@ -7,7 +7,7 @@ JavaScript toolchain for working with WebAssembly Components
 - **Latest release**: `jco-v1.33.0` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 999 · **Forks**: 134 · **Open issues**: 363 · **Contributors**: 81
+- **Stars**: 999 · **Forks**: 134 · **Open issues**: 363 · **Contributors**: 82
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/jco> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:28:12Z._
+_Last regenerated: 2026-09-09T19:34:29Z._
