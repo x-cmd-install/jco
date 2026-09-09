@@ -2,12 +2,12 @@ about:
   description: "JavaScript toolchain for working with WebAssembly Components"
   license: Apache-2.0
   homepage: https://bytecodealliance.github.io/jco/
-  head: 406acc5
+  head: a0414eb
   archived: false
   latestVersion: "jco-v1.33.0"
   latestRelease: "jco-v1.33.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:27:28Z
+  collectedAt: 2026-09-09T19:33:06Z
 timeline:
   created: 2022-12-09
   lastCommit: 2026-09-09
@@ -19,106 +19,106 @@ popularity:
   watcher: 13
   fork: 134
   release: 268
-  contributor: 81
-  pullRequest: 1720
+  contributor: 82
+  pullRequest: 1727
   issue: 363
 language:
-  TypeScript: 2737930
-  Rust: 1775447
-  JavaScript: 466293
+  TypeScript: 3061153
+  Rust: 1776305
+  JavaScript: 486725
   Just: 17180
-  Shell: 4738
+  Shell: 3941
   Python: 3631
   C++: 2435
   C: 1169
-totalBytes: 5008823
+totalBytes: 5352539
 recent:
   last30d:
     since: 2026-08-10
     release: 42
-    mergedPR: 202
+    mergedPR: 209
     openPR: 7
     closedIssue: 13
     openIssue: 0
-    commit: 0
+    commit: 805
   last60d:
     since: 2026-07-11
     release: 66
-    mergedPR: 302
+    mergedPR: 309
     openPR: 7
     closedIssue: 16
     openIssue: 0
-    commit: 0
+    commit: 994
   last90d:
     since: 2026-06-11
     release: 100
-    mergedPR: 394
+    mergedPR: 401
     openPR: 7
     closedIssue: 30
     openIssue: 1
-    commit: 0
+    commit: 1133
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 652
+    mergedPR: 659
     openPR: 7
     closedIssue: 61
     openIssue: 1
-    commit: 0
+    commit: 1699
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 845
+    mergedPR: 852
     openPR: 7
     closedIssue: 90
     openIssue: 2
-    commit: 0
+    commit: 2125
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 1211
+    mergedPR: 1218
     openPR: 7
     closedIssue: 166
     openIssue: 2
-    commit: 2436
+    commit: 2526
 total:
   release: 268
-  mergedPR: 1499
+  mergedPR: 1506
   openPR: 7
   closedIssue: 358
   openIssue: 5
-  commit: 2888
+  commit: 2978
 ---
 path: /home/runner/.x-repo/github.com/bytecodealliance/jco
-collectedAt: 2026-09-09T05:28:06Z
+collectedAt: 2026-09-09T19:34:17Z
 loc:
   TypeScript:
-    code: 74159
-    comments: 15302
-    blanks: 8177
-    files: 793
+    code: 82770
+    comments: 15712
+    blanks: 8784
+    files: 868
   Rust:
-    code: 34264
-    comments: 1453
+    code: 34275
+    comments: 1455
     blanks: 2923
     files: 102
   WebAssembly:
-    code: 31512
-    comments: 521
+    code: 31554
+    comments: 523
     blanks: 570
-    files: 44
+    files: 45
   JavaScript:
-    code: 15071
-    comments: 1023
-    blanks: 2228
-    files: 233
+    code: 15748
+    comments: 1047
+    blanks: 2282
+    files: 246
   Yaml:
-    code: 7828
+    code: 7904
     comments: 0
-    blanks: 2040
+    blanks: 2056
     files: 4
   Json:
-    code: 1906
+    code: 1979
     comments: 0
     blanks: 6
     files: 59
@@ -127,6 +127,11 @@ loc:
     comments: 82
     blanks: 117
     files: 29
+  Svg:
+    code: 143
+    comments: 0
+    blanks: 4
+    files: 1
   Html:
     code: 119
     comments: 30
@@ -138,10 +143,10 @@ loc:
     blanks: 51
     files: 4
   Sh:
-    code: 83
-    comments: 24
-    blanks: 24
-    files: 4
+    code: 78
+    comments: 20
+    blanks: 21
+    files: 3
   Cpp:
     code: 76
     comments: 0
@@ -154,14 +159,14 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 9921
-    blanks: 5336
-    files: 80
+    comments: 10171
+    blanks: 5388
+    files: 84
 total:
-  code: 166388
-  comments: 30229
-  blanks: 21966
-  files: 1362
+  code: 176016
+  comments: 30913
+  blanks: 22696
+  files: 1455
 ---
 
 ---
