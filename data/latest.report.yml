@@ -7,7 +7,7 @@ about:
   latestVersion: "jco-v1.33.0"
   latestRelease: "jco-v1.33.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T19:33:06Z
+  collectedAt: 2026-09-10T05:29:19Z
 timeline:
   created: 2022-12-09
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 999
+  star: 1000
   watcher: 13
   fork: 134
   release: 268
   contributor: 82
-  pullRequest: 1727
+  pullRequest: 1728
   issue: 363
 language:
   TypeScript: 3061153
@@ -34,63 +34,63 @@ language:
 totalBytes: 5352539
 recent:
   last30d:
-    since: 2026-08-10
-    release: 42
-    mergedPR: 209
-    openPR: 7
+    since: 2026-08-11
+    release: 39
+    mergedPR: 205
+    openPR: 8
     closedIssue: 13
     openIssue: 0
     commit: 805
   last60d:
-    since: 2026-07-11
+    since: 2026-07-12
     release: 66
-    mergedPR: 309
-    openPR: 7
+    mergedPR: 308
+    openPR: 8
     closedIssue: 16
     openIssue: 0
     commit: 994
   last90d:
-    since: 2026-06-11
+    since: 2026-06-12
     release: 100
-    mergedPR: 401
-    openPR: 7
+    mergedPR: 400
+    openPR: 8
     closedIssue: 30
     openIssue: 1
     commit: 1133
   last180d:
-    since: 2026-03-13
+    since: 2026-03-14
     release: 100
     mergedPR: 659
-    openPR: 7
+    openPR: 8
     closedIssue: 61
     openIssue: 1
     commit: 1699
   last360d:
-    since: 2025-09-14
+    since: 2025-09-15
     release: 100
     mergedPR: 852
-    openPR: 7
+    openPR: 8
     closedIssue: 90
     openIssue: 2
     commit: 2125
   last720d:
-    since: 2024-09-19
+    since: 2024-09-20
     release: 100
     mergedPR: 1218
-    openPR: 7
+    openPR: 8
     closedIssue: 166
     openIssue: 2
     commit: 2526
 total:
   release: 268
   mergedPR: 1506
-  openPR: 7
+  openPR: 8
   closedIssue: 358
   openIssue: 5
   commit: 2978
 ---
 path: /home/runner/.x-repo/github.com/bytecodealliance/jco
-collectedAt: 2026-09-09T19:34:17Z
+collectedAt: 2026-09-10T05:29:58Z
 loc:
   TypeScript:
     code: 82770
