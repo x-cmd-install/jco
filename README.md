@@ -48,12 +48,12 @@ Total: **204,537** lines of code across **1622** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 37 | 222 | 4 | 10 | 0 | 924 |
-| last60d | 2026-07-13 | 67 | 325 | 4 | 16 | 0 | 1113 |
-| 90d | 2026-06-13 | 100 | 417 | 4 | 29 | 1 | 1252 |
-| last180d | 2026-03-15 | 100 | 676 | 4 | 61 | 1 | 1818 |
-| 360d | 2025-09-16 | 100 | 868 | 4 | 90 | 2 | 2244 |
-| last720d | 2024-09-21 | 100 | 1235 | 4 | 166 | 2 | 2645 |
+| 30d | 2026-08-13 | 37 | 218 | 4 | 7 | 0 | 924 |
+| last60d | 2026-07-14 | 67 | 325 | 4 | 16 | 0 | 1113 |
+| 90d | 2026-06-14 | 100 | 414 | 4 | 29 | 1 | 1252 |
+| last180d | 2026-03-16 | 100 | 673 | 4 | 61 | 1 | 1818 |
+| 360d | 2025-09-17 | 100 | 867 | 4 | 90 | 2 | 2244 |
+| last720d | 2024-09-22 | 100 | 1235 | 4 | 166 | 2 | 2645 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for jco lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:31:58Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:25:15Z._
