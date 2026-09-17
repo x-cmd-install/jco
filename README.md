@@ -14,12 +14,12 @@ x install jco
 
 ## Code insight
 
-Total: **227,402** lines of code across **1987** files in the top 5 languages.
+Total: **227,522** lines of code across **1987** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 126,815 | 19,558 | 13,549 | 1516 |
-| Rust | 34,479 | 1,464 | 2,934 | 102 |
+| Rust | 34,599 | 1,466 | 2,938 | 102 |
 | WebAssembly | 31,554 | 523 | 570 | 45 |
 | JavaScript | 22,118 | 1,315 | 2,848 | 318 |
 | Yaml | 8,567 | 0 | 2,230 | 6 |
@@ -32,8 +32,8 @@ Total: **227,402** lines of code across **1987** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `jco-v1.34.0` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Latest**: `js-component-bindgen-v2.11.0` (2026-09-16)
+- **Last commit**: 2026-09-16
 - **Assets in release**: 1
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **227,402** lines of code across **1987** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 275 · **Merged PRs**: 1546 · **Open PRs**: 2 · **Closed issues**: 359 · **Open issues**: 6 · **Commits**: 3225
+- **Releases**: 276 · **Merged PRs**: 1548 · **Open PRs**: 2 · **Closed issues**: 359 · **Open issues**: 6 · **Commits**: 3228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 40 | 227 | 2 | 5 | 2 | 944 |
-| last60d | 2026-07-18 | 73 | 348 | 2 | 16 | 2 | 1226 |
-| 90d | 2026-06-18 | 100 | 413 | 2 | 24 | 3 | 1335 |
-| last180d | 2026-03-20 | 100 | 678 | 2 | 58 | 3 | 1893 |
-| 360d | 2025-09-21 | 100 | 890 | 2 | 91 | 3 | 2371 |
-| last720d | 2024-09-26 | 100 | 1257 | 2 | 166 | 3 | 2770 |
+| 30d | 2026-08-18 | 41 | 225 | 2 | 4 | 2 | 947 |
+| last60d | 2026-07-19 | 74 | 349 | 2 | 16 | 2 | 1229 |
+| 90d | 2026-06-19 | 100 | 412 | 2 | 23 | 3 | 1338 |
+| last180d | 2026-03-21 | 100 | 680 | 2 | 58 | 3 | 1896 |
+| 360d | 2025-09-22 | 100 | 892 | 2 | 91 | 3 | 2374 |
+| last720d | 2024-09-27 | 100 | 1258 | 2 | 166 | 3 | 2773 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for jco lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:54:16Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:51:46Z._
