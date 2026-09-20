@@ -4,7 +4,7 @@
 
 JavaScript toolchain for working with WebAssembly Components
 
-![jco](https://repo.x-cmd.io/jco.svg)
+[![x-cmd/install — jco Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jco.svg)](https://x-cmd.com/install/jco)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **227,522** lines of code across **1987** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,004 · **Forks**: 134 · **Open issues**: 366 · **Contributors**: 82
+- **Stars**: 1,004 · **Forks**: 136 · **Open issues**: 366 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 276 · **Merged PRs**: 1548 · **Open PRs**: 2 · **Closed issues**: 359 · **Open issues**: 7 · **Commits**: 3228
+- **Releases**: 276 · **Merged PRs**: 1548 · **Open PRs**: 3 · **Closed issues**: 359 · **Open issues**: 7 · **Commits**: 3228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 41 | 200 | 2 | 3 | 3 | 947 |
-| last60d | 2026-07-20 | 74 | 348 | 2 | 16 | 3 | 1229 |
-| 90d | 2026-06-20 | 98 | 412 | 2 | 22 | 4 | 1338 |
-| last180d | 2026-03-22 | 100 | 680 | 2 | 58 | 4 | 1896 |
-| 360d | 2025-09-23 | 100 | 891 | 2 | 91 | 4 | 2374 |
-| last720d | 2024-09-28 | 100 | 1258 | 2 | 166 | 4 | 2773 |
+| 30d | 2026-08-21 | 33 | 179 | 3 | 3 | 3 | 947 |
+| last60d | 2026-07-22 | 74 | 341 | 3 | 16 | 3 | 1229 |
+| 90d | 2026-06-22 | 98 | 412 | 3 | 22 | 4 | 1338 |
+| last180d | 2026-03-24 | 100 | 670 | 3 | 58 | 4 | 1896 |
+| 360d | 2025-09-25 | 100 | 891 | 3 | 91 | 4 | 2374 |
+| last720d | 2024-09-30 | 100 | 1258 | 3 | 166 | 4 | 2773 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for jco lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:42:18Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:52:24Z._
