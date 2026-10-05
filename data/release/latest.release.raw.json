@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/bytecodealliance/jco/releases/395825519",
-  "assets_url": "https://api.github.com/repos/bytecodealliance/jco/releases/395825519/assets",
-  "upload_url": "https://uploads.github.com/repos/bytecodealliance/jco/releases/395825519/assets{?name,label}",
-  "html_url": "https://github.com/bytecodealliance/jco/releases/tag/jco-v1.35.0",
-  "id": 395825519,
+  "url": "https://api.github.com/repos/bytecodealliance/jco/releases/403001309",
+  "assets_url": "https://api.github.com/repos/bytecodealliance/jco/releases/403001309/assets",
+  "upload_url": "https://uploads.github.com/repos/bytecodealliance/jco/releases/403001309/assets{?name,label}",
+  "html_url": "https://github.com/bytecodealliance/jco/releases/tag/jco-v1.36.0",
+  "id": 403001309,
   "author": {
     "login": "jco-release-bot",
     "id": 210889107,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIluaQ84Xl9Fv",
-  "tag_name": "jco-v1.35.0",
+  "node_id": "RE_kwDOIluaQ84YBU_d",
+  "tag_name": "jco-v1.36.0",
   "target_commitish": "main",
-  "name": "jco-v1.35.0",
+  "name": "jco-v1.36.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-24T15:23:55Z",
-  "updated_at": "2026-09-24T15:30:18Z",
-  "published_at": "2026-09-24T15:30:18Z",
+  "created_at": "2026-10-04T12:01:47Z",
+  "updated_at": "2026-10-04T12:09:30Z",
+  "published_at": "2026-10-04T12:09:30Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/bytecodealliance/jco/releases/assets/586251002",
-      "id": 586251002,
-      "node_id": "RA_kwDOIluaQ84i8Xr6",
-      "name": "bytecodealliance-jco-1.35.0.tgz",
+      "url": "https://api.github.com/repos/bytecodealliance/jco/releases/assets/609781450",
+      "id": 609781450,
+      "node_id": "RA_kwDOIluaQ84kWIbK",
+      "name": "bytecodealliance-jco-1.36.0.tgz",
       "label": "",
       "uploader": {
         "login": "jco-release-bot",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 183100,
-      "digest": "sha256:893e80e993a2cb3735e195a0c2dc3ab7d683877a813bb024a27499ee86e12b13",
-      "download_count": 6,
-      "created_at": "2026-09-24T15:30:17Z",
-      "updated_at": "2026-09-24T15:30:17Z",
-      "browser_download_url": "https://github.com/bytecodealliance/jco/releases/download/jco-v1.35.0/bytecodealliance-jco-1.35.0.tgz"
+      "size": 183523,
+      "digest": "sha256:3474cab37c934e26447c34abe300ab54029f9c4d753cf98bcaed63f99f32b369",
+      "download_count": 1,
+      "created_at": "2026-10-04T12:09:29Z",
+      "updated_at": "2026-10-04T12:09:29Z",
+      "browser_download_url": "https://github.com/bytecodealliance/jco/releases/download/jco-v1.36.0/bytecodealliance-jco-1.36.0.tgz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/bytecodealliance/jco/tarball/jco-v1.35.0",
-  "zipball_url": "https://api.github.com/repos/bytecodealliance/jco/zipball/jco-v1.35.0",
-  "body": "## [1.35.0] - 2026-09-24\n\n### 🚀 Features\n\n- _(jco)_ add quickjs p3 example by @andreiltd\n\n### 🐛 Bug Fixes\n\n- _(jco)_ fix qjs argument typo and select sync runtime in the componentize tests by @andreiltd in #2141\n\n### 🧪 Testing\n\n- _(jco)_ update wit-component metadata version by @vados-cosmonic\n\n- _(jco)_ fix node FFI integration assertions by @vados-cosmonic in #2140\n\n### ⚙️ Miscellaneous Tasks\n\n- _(jco)_ update jco-std, jco-transpile, preview2-shim by @vados-cosmonic\n\n- _(jco)_ bump componentize-qjs by @andreiltd\n\n",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/bytecodealliance/jco/tarball/jco-v1.36.0",
+  "zipball_url": "https://api.github.com/repos/bytecodealliance/jco/zipball/jco-v1.36.0",
+  "body": "## [1.36.0] - 2026-10-04\n\n### 🚀 Features\n\n- _(jco)_ add flags to skip validation of copied strings by @vados-cosmonic\n\n### 🐛 Bug Fixes\n\n- _(jco)_ deny HTTP in sandboxed runs by @vados-cosmonic\n\n- _(jco)_ preserve run filesystem access by @vados-cosmonic\n\n### 🧪 Testing\n\n- _(jco)_ defer composed CLI test until transpile release by @vados-cosmonic in #2188\n\n- _(jco)_ skip Windows HTTP/2 tests pending shim release by @vados-cosmonic in #2174\n\n- _(jco)_ defer sandbox preopen integration by @vados-cosmonic in #2163\n\n### ⚙️ Miscellaneous Tasks\n\n- _(jco)_ update jco-transpile to v0.17.0 by @vados-cosmonic in #2202\n\n- _(jco)_ update preview2-shim to v0.27.1 by @vados-cosmonic\n\n- _(jco)_ update deps by @vados-cosmonic\n\n",
+  "mentions_count": 1
 }
