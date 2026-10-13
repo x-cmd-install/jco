@@ -14,13 +14,13 @@ x install jco
 
 ## Code insight
 
-Total: **242,067** lines of code across **2099** files in the top 5 languages.
+Total: **242,626** lines of code across **2106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 133,955 | 19,869 | 14,144 | 1566 |
-| WebAssembly | 35,962 | 974 | 966 | 74 |
-| Rust | 35,762 | 1,541 | 2,993 | 112 |
+| TypeScript | 134,080 | 19,876 | 14,151 | 1566 |
+| WebAssembly | 36,240 | 1,018 | 1,028 | 81 |
+| Rust | 35,918 | 1,543 | 2,997 | 112 |
 | JavaScript | 23,390 | 1,338 | 2,971 | 341 |
 | Yaml | 8,862 | 0 | 2,179 | 6 |
 
@@ -42,18 +42,18 @@ Total: **242,067** lines of code across **2099** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 302 · **Merged PRs**: 1642 · **Open PRs**: 3 · **Closed issues**: 369 · **Open issues**: 5 · **Commits**: 3456
+- **Releases**: 302 · **Merged PRs**: 1645 · **Open PRs**: 3 · **Closed issues**: 369 · **Open issues**: 5 · **Commits**: 3463
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 33 | 106 | 2 | 10 | 1 | 224 |
-| last60d | 2026-08-13 | 70 | 336 | 3 | 17 | 1 | 1246 |
-| 90d | 2026-07-14 | 100 | 443 | 3 | 26 | 1 | 1471 |
-| last180d | 2026-04-15 | 100 | 723 | 3 | 56 | 2 | 1965 |
-| 360d | 2025-10-17 | 100 | 962 | 3 | 99 | 2 | 2573 |
-| last720d | 2024-10-22 | 100 | 1351 | 3 | 172 | 2 | 2999 |
+| 30d | 2026-09-13 | 33 | 108 | 2 | 10 | 1 | 0 |
+| last60d | 2026-08-14 | 70 | 331 | 3 | 16 | 1 | 0 |
+| 90d | 2026-07-15 | 100 | 446 | 3 | 26 | 1 | 0 |
+| last180d | 2026-04-16 | 100 | 722 | 3 | 55 | 2 | 0 |
+| 360d | 2025-10-18 | 100 | 965 | 3 | 99 | 2 | 0 |
+| last720d | 2024-10-23 | 100 | 1354 | 3 | 172 | 2 | 3006 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for jco lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:38:46Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:32:59Z._
