@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/bytecodealliance/jco/releases/404768405",
-  "assets_url": "https://api.github.com/repos/bytecodealliance/jco/releases/404768405/assets",
-  "upload_url": "https://uploads.github.com/repos/bytecodealliance/jco/releases/404768405/assets{?name,label}",
-  "html_url": "https://github.com/bytecodealliance/jco/releases/tag/jco-v1.37.0",
-  "id": 404768405,
+  "url": "https://api.github.com/repos/bytecodealliance/jco/releases/412857741",
+  "assets_url": "https://api.github.com/repos/bytecodealliance/jco/releases/412857741/assets",
+  "upload_url": "https://uploads.github.com/repos/bytecodealliance/jco/releases/412857741/assets{?name,label}",
+  "html_url": "https://github.com/bytecodealliance/jco/releases/tag/jco-v1.38.0",
+  "id": 412857741,
   "author": {
     "login": "jco-release-bot",
     "id": 210889107,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIluaQ84YIEaV",
-  "tag_name": "jco-v1.37.0",
+  "node_id": "RE_kwDOIluaQ84Ym7WN",
+  "tag_name": "jco-v1.38.0",
   "target_commitish": "main",
-  "name": "jco-v1.37.0",
+  "name": "jco-v1.38.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-06T13:17:47Z",
-  "updated_at": "2026-10-06T13:42:55Z",
-  "published_at": "2026-10-06T13:42:55Z",
+  "created_at": "2026-10-14T14:40:04Z",
+  "updated_at": "2026-10-14T15:09:36Z",
+  "published_at": "2026-10-14T15:09:36Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/bytecodealliance/jco/releases/assets/615645353",
-      "id": 615645353,
-      "node_id": "RA_kwDOIluaQ84ksgCp",
-      "name": "bytecodealliance-jco-1.37.0.tgz",
+      "url": "https://api.github.com/repos/bytecodealliance/jco/releases/assets/640743669",
+      "id": 640743669,
+      "node_id": "RA_kwDOIluaQ84mMPj1",
+      "name": "bytecodealliance-jco-1.38.0.tgz",
       "label": "",
       "uploader": {
         "login": "jco-release-bot",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 183518,
-      "digest": "sha256:a5dfe9695a3e21256dfb33267b90e7119262f28faa1d2ca8163038adcb3d34fa",
+      "size": 190049,
+      "digest": "sha256:dfec858d4da6ef018fda7d391857f9c1a7a4d0baa8bd3fd1897fc8e0902cdec8",
       "download_count": 0,
-      "created_at": "2026-10-06T13:42:54Z",
-      "updated_at": "2026-10-06T13:42:55Z",
-      "browser_download_url": "https://github.com/bytecodealliance/jco/releases/download/jco-v1.37.0/bytecodealliance-jco-1.37.0.tgz"
+      "created_at": "2026-10-14T15:09:35Z",
+      "updated_at": "2026-10-14T15:09:36Z",
+      "browser_download_url": "https://github.com/bytecodealliance/jco/releases/download/jco-v1.38.0/bytecodealliance-jco-1.38.0.tgz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/bytecodealliance/jco/tarball/jco-v1.37.0",
-  "zipball_url": "https://api.github.com/repos/bytecodealliance/jco/zipball/jco-v1.37.0",
-  "body": "## [1.37.0] - 2026-10-06\n\n### ⚙️ Miscellaneous Tasks\n\n- _(jco)_ update jco-transpile to v0.18.0 by @vados-cosmonic\n\n- _(jco)_ update preview2-shim to v0.28.0 by @vados-cosmonic\n\n- _(jco)_ update jco-std to v0.7.0 by @vados-cosmonic\n\n",
+  "tarball_url": "https://api.github.com/repos/bytecodealliance/jco/tarball/jco-v1.38.0",
+  "zipball_url": "https://api.github.com/repos/bytecodealliance/jco/zipball/jco-v1.38.0",
+  "body": "## [1.38.0] - 2026-10-14\n\n### 🚀 Features\n\n- _(jco)_ support node:path with a WASI P3 environment by @vados-cosmonic\n\n### 🐛 Bug Fixes\n\n- _(jco)_ resolve WASI fixture runner URLs as native paths by @vados-cosmonic\n\n- _(jco)_ honor synchronous QuickJS builds and isolate WIT files by @vados-cosmonic\n\n- _(jco)_ preserve console globals and suspend HTTP client polling by @vados-cosmonic\n\n- _(jco)_ correct Node builtin bundling and host callback bindings by @vados-cosmonic\n\n- _(jco)_ make plugin timing diagnostics opt-in by @vados-cosmonic\n\n- _(jco)_ repair node component bundling and host wiring by @vados-cosmonic\n\n### 🧪 Testing\n\n- _(jco)_ use POSIX expectations for component path APIs by @vados-cosmonic in #2249\n\n- _(jco)_ isolate dependency links and exercise QuickJS test globals by @vados-cosmonic in #2230\n\n- _(jco)_ update portable globals fixtures and builtin contracts by @vados-cosmonic\n\n- _(jco)_ align HTTP and stream component fixtures by @vados-cosmonic\n\n- _(jco)_ cover builtin adapters, globals and async context by @vados-cosmonic\n\n- _(jco)_ add note about tty pty python script by @vados-cosmonic\n\n- _(jco)_ guard component tests by runtime capabilities by @vados-cosmonic in #2225\n\n- _(jco)_ skip confirmed componentize-qjs regressions by @vados-cosmonic\n\n- _(jco)_ restore remaining reviewed test coverage by @vados-cosmonic\n\n### ⚙️ Miscellaneous Tasks\n\n- _(jco)_ update jco-transpile to v0.19.0 by @vados-cosmonic\n\n- _(jco)_ update jco-std to v0.8.0 by @vados-cosmonic\n\n- _(jco)_ update preview2-shim to v0.29.0 by @vados-cosmonic\n\n",
   "mentions_count": 1
 }
