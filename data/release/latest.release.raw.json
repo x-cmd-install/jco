@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 190049,
       "digest": "sha256:dfec858d4da6ef018fda7d391857f9c1a7a4d0baa8bd3fd1897fc8e0902cdec8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-14T15:09:35Z",
       "updated_at": "2026-10-14T15:09:36Z",
       "browser_download_url": "https://github.com/bytecodealliance/jco/releases/download/jco-v1.38.0/bytecodealliance-jco-1.38.0.tgz"
