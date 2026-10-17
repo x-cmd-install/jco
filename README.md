@@ -32,8 +32,8 @@ Total: **243,146** lines of code across **2113** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `jco-std-v0.9.0` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Latest**: `jco-v1.39.0` (2026-10-16)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 1
 
 ## Popularity
@@ -42,24 +42,24 @@ Total: **243,146** lines of code across **2113** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 1668 · **Open PRs**: 1 · **Closed issues**: 369 · **Open issues**: 5 · **Commits**: 3504
+- **Releases**: 313 · **Merged PRs**: 1671 · **Open PRs**: 1 · **Closed issues**: 369 · **Open issues**: 5 · **Commits**: 3509
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 36 | 118 | 0 | 9 | 0 | 272 |
-| last60d | 2026-08-17 | 76 | 348 | 1 | 15 | 1 | 1294 |
-| 90d | 2026-07-18 | 100 | 469 | 1 | 26 | 1 | 1519 |
-| last180d | 2026-04-19 | 100 | 733 | 1 | 55 | 2 | 2013 |
-| 360d | 2025-10-21 | 100 | 987 | 1 | 98 | 2 | 2621 |
-| last720d | 2024-10-26 | 100 | 1377 | 1 | 172 | 2 | 3047 |
+| 30d | 2026-09-17 | 37 | 121 | 0 | 8 | 0 | 277 |
+| last60d | 2026-08-18 | 78 | 347 | 1 | 14 | 1 | 1299 |
+| 90d | 2026-07-19 | 100 | 471 | 1 | 26 | 1 | 1524 |
+| last180d | 2026-04-20 | 100 | 733 | 1 | 54 | 2 | 2018 |
+| 360d | 2025-10-22 | 100 | 988 | 1 | 98 | 2 | 2626 |
+| last720d | 2024-10-27 | 100 | 1380 | 1 | 172 | 2 | 3052 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [bytecodealliance-jco-1.38.0.tgz](https://github.com/bytecodealliance/jco/releases/download/jco-v1.38.0/bytecodealliance-jco-1.38.0.tgz) | 185.6 KiB | `native/unknown` |
+| [bytecodealliance-jco-1.39.0.tgz](https://github.com/bytecodealliance/jco/releases/download/jco-v1.39.0/bytecodealliance-jco-1.39.0.tgz) | 185.6 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for jco lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:16:19Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:54:16Z._
