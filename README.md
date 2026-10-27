@@ -42,18 +42,18 @@ Total: **247,719** lines of code across **2161** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 313 · **Merged PRs**: 1699 · **Open PRs**: 9 · **Closed issues**: 374 · **Open issues**: 5 · **Commits**: 3579
+- **Releases**: 313 · **Merged PRs**: 1703 · **Open PRs**: 6 · **Closed issues**: 374 · **Open issues**: 5 · **Commits**: 3584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 31 | 118 | 9 | 13 | 0 | 227 |
-| last60d | 2026-08-27 | 55 | 293 | 9 | 17 | 1 | 950 |
-| 90d | 2026-07-28 | 100 | 453 | 9 | 30 | 1 | 1500 |
-| last180d | 2026-04-29 | 100 | 745 | 9 | 57 | 2 | 2049 |
-| 360d | 2025-10-31 | 100 | 1005 | 9 | 98 | 2 | 2633 |
-| last720d | 2024-11-05 | 100 | 1402 | 9 | 176 | 2 | 3113 |
+| 30d | 2026-09-27 | 31 | 122 | 6 | 12 | 0 | 232 |
+| last60d | 2026-08-28 | 55 | 296 | 6 | 17 | 1 | 955 |
+| 90d | 2026-07-29 | 100 | 455 | 6 | 30 | 1 | 1505 |
+| last180d | 2026-04-30 | 100 | 749 | 6 | 57 | 2 | 2054 |
+| 360d | 2025-11-01 | 100 | 1009 | 6 | 98 | 2 | 2638 |
+| last720d | 2024-11-06 | 100 | 1406 | 6 | 176 | 2 | 3118 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for jco lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:23:24Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:41:04Z._
