@@ -2,12 +2,12 @@ about:
   description: "JavaScript toolchain for working with WebAssembly Components"
   license: Apache-2.0
   homepage: https://bytecodealliance.github.io/jco/
-  head: 90c7cbd
+  head: 0116ac2
   archived: false
   latestVersion: "jco-v1.40.0"
   latestRelease: "jco-v1.40.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:26:31Z
+  collectedAt: 2026-10-30T06:31:29Z
 timeline:
   created: 2022-12-09
   lastCommit: 2026-10-29
@@ -20,135 +20,140 @@ popularity:
   fork: 144
   release: 319
   contributor: 88
-  pullRequest: 1964
+  pullRequest: 1967
   issue: 380
 language:
-  TypeScript: 5236437
-  Rust: 2019392
+  TypeScript: 5241703
+  Rust: 2020263
   JavaScript: 723476
-  Just: 25831
+  Just: 27532
+  Python: 9284
   C: 7780
-  Python: 5434
   Shell: 3941
   C++: 2435
   HTML: 1280
   MoonBit: 427
-totalBytes: 8026433
+totalBytes: 8038121
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 31
-    mergedPR: 132
+    mergedPR: 130
     openPR: 3
-    closedIssue: 12
+    closedIssue: 9
     openIssue: 0
-    commit: 277
+    commit: 283
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 61
-    mergedPR: 317
+    mergedPR: 309
     openPR: 3
     closedIssue: 18
     openIssue: 1
-    commit: 1000
+    commit: 1006
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 100
-    mergedPR: 471
+    mergedPR: 474
     openPR: 3
     closedIssue: 31
     openIssue: 1
-    commit: 1550
+    commit: 1556
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 100
-    mergedPR: 770
+    mergedPR: 773
     openPR: 3
     closedIssue: 58
     openIssue: 2
-    commit: 2099
+    commit: 2105
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
     mergedPR: 1023
     openPR: 3
     closedIssue: 97
     openIssue: 2
-    commit: 2683
+    commit: 2689
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 1426
+    mergedPR: 1429
     openPR: 3
     closedIssue: 177
     openIssue: 2
-    commit: 3162
+    commit: 3168
 total:
   release: 319
-  mergedPR: 1725
+  mergedPR: 1728
   openPR: 3
   closedIssue: 375
   openIssue: 5
-  commit: 3629
+  commit: 3635
 ---
 path: /home/runner/.x-repo/github.com/bytecodealliance/jco
-collectedAt: 2026-10-29T06:27:03Z
+collectedAt: 2026-10-30T06:32:06Z
 loc:
   TypeScript:
-    code: 137615
-    comments: 20114
-    blanks: 14443
-    files: 1596
+    code: 137962
+    comments: 20146
+    blanks: 14466
+    files: 1607
   Rust:
-    code: 38696
-    comments: 1655
+    code: 38710
+    comments: 1657
     blanks: 3185
     files: 120
   WebAssembly:
-    code: 37431
-    comments: 1118
+    code: 37485
+    comments: 1121
     blanks: 1080
-    files: 111
+    files: 112
   JavaScript:
-    code: 25270
-    comments: 1378
-    blanks: 3044
-    files: 357
+    code: 26147
+    comments: 1401
+    blanks: 3108
+    files: 367
   Yaml:
-    code: 8932
+    code: 8970
     comments: 15
-    blanks: 2164
+    blanks: 2167
     files: 7
   Json:
-    code: 2630
+    code: 2689
     comments: 0
     blanks: 6
-    files: 72
+    files: 75
   Toml:
     code: 886
     comments: 85
     blanks: 121
     files: 30
+  Python:
+    code: 317
+    comments: 11
+    blanks: 96
+    files: 7
+  Css:
+    code: 233
+    comments: 0
+    blanks: 0
+    files: 1
   C:
     code: 231
     comments: 17
     blanks: 55
     files: 7
-  Python:
-    code: 212
-    comments: 5
-    blanks: 69
+  Html:
+    code: 231
+    comments: 31
+    blanks: 3
     files: 6
   Svg:
     code: 143
     comments: 0
     blanks: 4
     files: 1
-  Html:
-    code: 135
-    comments: 30
-    blanks: 3
-    files: 5
   Svelte:
     code: 85
     comments: 0
@@ -171,19 +176,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 14101
-    blanks: 6937
-    files: 162
+    comments: 14355
+    blanks: 6997
+    files: 164
   Text:
     code: 0
     comments: 1
     blanks: 0
     files: 1
 total:
-  code: 253176
-  comments: 40589
-  blanks: 31699
-  files: 2484
+  code: 255020
+  comments: 40910
+  blanks: 31876
+  files: 2514
 ---
 
 ---
