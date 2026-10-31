@@ -2,30 +2,30 @@ about:
   description: "JavaScript toolchain for working with WebAssembly Components"
   license: Apache-2.0
   homepage: https://bytecodealliance.github.io/jco/
-  head: 0116ac2
+  head: 2262d23
   archived: false
   latestVersion: "jco-v1.40.0"
   latestRelease: "jco-v1.40.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:31:29Z
+  collectedAt: 2026-10-31T06:14:44Z
 timeline:
   created: 2022-12-09
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-31
   lastVersion: 2026-10-28
   lastRelease: 2026-10-28
   lastPrerelease: 
 popularity:
   star: 1016
   watcher: 9
-  fork: 144
+  fork: 146
   release: 319
   contributor: 88
-  pullRequest: 1967
+  pullRequest: 1979
   issue: 380
 language:
-  TypeScript: 5241703
-  Rust: 2020263
-  JavaScript: 723476
+  TypeScript: 5266823
+  Rust: 2068092
+  JavaScript: 729916
   Just: 27532
   Python: 9284
   C: 7780
@@ -33,97 +33,97 @@ language:
   C++: 2435
   HTML: 1280
   MoonBit: 427
-totalBytes: 8038121
+totalBytes: 8117510
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 31
-    mergedPR: 130
-    openPR: 3
+    mergedPR: 139
+    openPR: 4
     closedIssue: 9
     openIssue: 0
-    commit: 283
+    commit: 317
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 61
-    mergedPR: 309
-    openPR: 3
+    mergedPR: 308
+    openPR: 4
     closedIssue: 18
     openIssue: 1
-    commit: 1006
+    commit: 1040
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 100
-    mergedPR: 474
-    openPR: 3
+    mergedPR: 483
+    openPR: 4
     closedIssue: 31
     openIssue: 1
-    commit: 1556
+    commit: 1590
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 100
-    mergedPR: 773
-    openPR: 3
+    mergedPR: 781
+    openPR: 4
     closedIssue: 58
     openIssue: 2
-    commit: 2105
+    commit: 2139
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 100
-    mergedPR: 1023
-    openPR: 3
+    mergedPR: 1026
+    openPR: 4
     closedIssue: 97
     openIssue: 2
-    commit: 2689
+    commit: 2723
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
-    mergedPR: 1429
-    openPR: 3
+    mergedPR: 1439
+    openPR: 4
     closedIssue: 177
     openIssue: 2
-    commit: 3168
+    commit: 3202
 total:
   release: 319
-  mergedPR: 1728
-  openPR: 3
+  mergedPR: 1738
+  openPR: 4
   closedIssue: 375
   openIssue: 5
-  commit: 3635
+  commit: 3669
 ---
 path: /home/runner/.x-repo/github.com/bytecodealliance/jco
-collectedAt: 2026-10-30T06:32:06Z
+collectedAt: 2026-10-31T06:15:15Z
 loc:
   TypeScript:
-    code: 137962
-    comments: 20146
-    blanks: 14466
-    files: 1607
+    code: 138527
+    comments: 20167
+    blanks: 14493
+    files: 1624
   Rust:
-    code: 38710
-    comments: 1657
-    blanks: 3185
-    files: 120
+    code: 39911
+    comments: 1666
+    blanks: 3305
+    files: 136
   WebAssembly:
     code: 37485
     comments: 1121
     blanks: 1080
     files: 112
   JavaScript:
-    code: 26147
-    comments: 1401
-    blanks: 3108
-    files: 367
+    code: 26328
+    comments: 1408
+    blanks: 3125
+    files: 378
   Yaml:
-    code: 8970
+    code: 9012
     comments: 15
-    blanks: 2167
+    blanks: 2175
     files: 7
   Json:
-    code: 2689
+    code: 2741
     comments: 0
     blanks: 6
-    files: 75
+    files: 80
   Toml:
     code: 886
     comments: 85
@@ -176,20 +176,20 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 14355
-    blanks: 6997
-    files: 164
+    comments: 14399
+    blanks: 7015
+    files: 168
   Text:
     code: 0
     comments: 1
     blanks: 0
     files: 1
 total:
-  code: 255020
-  comments: 40910
-  blanks: 31876
-  files: 2514
+  code: 257062
+  comments: 41038
+  blanks: 32067
+  files: 2567
 ---
 
 ---
-{"id":426778656,"author":{"login":"jco-release-bot","id":210889107,"node_id":"U_kgDODJHpkw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOIluaQ84ZcCAg","tag_name":"jco-v1.40.0","target_commitish":"main","name":"jco-v1.40.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-28T14:01:48Z","updated_at":"2026-10-28T14:31:27Z","published_at":"2026-10-28T14:31:27Z","assets":[{"id":685262768,"node_id":"RA_kwDOIluaQ84o2Eew","name":"bytecodealliance-jco-1.40.0.tgz","label":"","uploader":{"login":"jco-release-bot","id":210889107,"node_id":"U_kgDODJHpkw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":198770,"digest":"sha256:01410f7c1d77a30d309faac2651641e30528a9f5e022ab09fd11ab1c6c9bc3d4","download_count":0,"created_at":"2026-10-28T14:31:26Z","updated_at":"2026-10-28T14:31:26Z"}],"body":"## [1.40.0] - 2026-10-28\n\n### 🚀 Features\n\n- _(jco)_ build script engines and script-only components with --script-only by @vados-cosmonic\n\n- _(jco)_ cooperative threading by @TartanLlama\n\n- _(jco)_ add user-managed Perry componentization backend by @vados-cosmonic\n\n### 🐛 Bug Fixes\n\n- _(jco)_ support QuickJS 0.5 in the TLS fixture by @vados-cosmonic in #2310\n\n### 🎨 Styling\n\n- _(jco)_ format runtime CLI tests by @vados-cosmonic\n\n### 🧪 Testing\n\n- _(jco)_ unskip pthread tests by @TartanLlama in #2339\n\n- _(jco)_ run script-only coverage against workspace jco-transpile by @vados-cosmonic\n\n- _(jco)_ defer script-only coverage and run tests concurrently by @vados-cosmonic in #2311\n\n- _(jco)_ support current codegen and Node 22 script engines by @vados-cosmonic\n\n- _(jco)_ exercise runtime option through the CLI by @vados-cosmonic\n\n### ⚙️ Miscellaneous Tasks\n\n- _(jco)_ update jco-std to v0.10.0 by @vados-cosmonic in #2346\n\n- _(jco)_ update preview2-shim to v0.31.0 by @vados-cosmonic in #2341\n\n- _(jco)_ update jco-transpile to 0.21.0 by @vados-cosmonic in #2340\n\n- _(jco)_ bump componentize-qjs by @andreiltd in #2307\n\n","mentions_count":3}
+{"id":426778656,"author":{"login":"jco-release-bot","id":210889107,"node_id":"U_kgDODJHpkw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOIluaQ84ZcCAg","tag_name":"jco-v1.40.0","target_commitish":"main","name":"jco-v1.40.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-28T14:01:48Z","updated_at":"2026-10-28T14:31:27Z","published_at":"2026-10-28T14:31:27Z","assets":[{"id":685262768,"node_id":"RA_kwDOIluaQ84o2Eew","name":"bytecodealliance-jco-1.40.0.tgz","label":"","uploader":{"login":"jco-release-bot","id":210889107,"node_id":"U_kgDODJHpkw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":198770,"digest":"sha256:01410f7c1d77a30d309faac2651641e30528a9f5e022ab09fd11ab1c6c9bc3d4","download_count":1,"created_at":"2026-10-28T14:31:26Z","updated_at":"2026-10-28T14:31:26Z"}],"body":"## [1.40.0] - 2026-10-28\n\n### 🚀 Features\n\n- _(jco)_ build script engines and script-only components with --script-only by @vados-cosmonic\n\n- _(jco)_ cooperative threading by @TartanLlama\n\n- _(jco)_ add user-managed Perry componentization backend by @vados-cosmonic\n\n### 🐛 Bug Fixes\n\n- _(jco)_ support QuickJS 0.5 in the TLS fixture by @vados-cosmonic in #2310\n\n### 🎨 Styling\n\n- _(jco)_ format runtime CLI tests by @vados-cosmonic\n\n### 🧪 Testing\n\n- _(jco)_ unskip pthread tests by @TartanLlama in #2339\n\n- _(jco)_ run script-only coverage against workspace jco-transpile by @vados-cosmonic\n\n- _(jco)_ defer script-only coverage and run tests concurrently by @vados-cosmonic in #2311\n\n- _(jco)_ support current codegen and Node 22 script engines by @vados-cosmonic\n\n- _(jco)_ exercise runtime option through the CLI by @vados-cosmonic\n\n### ⚙️ Miscellaneous Tasks\n\n- _(jco)_ update jco-std to v0.10.0 by @vados-cosmonic in #2346\n\n- _(jco)_ update preview2-shim to v0.31.0 by @vados-cosmonic in #2341\n\n- _(jco)_ update jco-transpile to 0.21.0 by @vados-cosmonic in #2340\n\n- _(jco)_ bump componentize-qjs by @andreiltd in #2307\n\n","mentions_count":3}
