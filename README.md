@@ -38,22 +38,22 @@ Total: **256,912** lines of code across **2264** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,016 · **Forks**: 146 · **Open issues**: 380 · **Contributors**: 88
+- **Stars**: 1,016 · **Forks**: 146 · **Open issues**: 381 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 323 · **Merged PRs**: 1748 · **Open PRs**: 21 · **Closed issues**: 375 · **Open issues**: 5 · **Commits**: 3683
+- **Releases**: 323 · **Merged PRs**: 1748 · **Open PRs**: 21 · **Closed issues**: 375 · **Open issues**: 6 · **Commits**: 3683
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 35 | 141 | 21 | 9 | 0 | 252 |
-| last60d | 2026-09-02 | 65 | 291 | 21 | 18 | 1 | 708 |
-| 90d | 2026-08-03 | 100 | 486 | 21 | 31 | 1 | 1533 |
-| last180d | 2026-05-05 | 100 | 787 | 21 | 58 | 2 | 2137 |
-| 360d | 2025-11-06 | 100 | 1030 | 21 | 97 | 2 | 2676 |
-| last720d | 2024-11-11 | 100 | 1449 | 21 | 177 | 2 | 3216 |
+| 30d | 2026-10-03 | 32 | 141 | 21 | 9 | 1 | 252 |
+| last60d | 2026-09-03 | 65 | 288 | 21 | 18 | 2 | 708 |
+| 90d | 2026-08-04 | 100 | 469 | 21 | 30 | 2 | 1533 |
+| last180d | 2026-05-06 | 100 | 784 | 21 | 58 | 3 | 2137 |
+| 360d | 2025-11-07 | 100 | 1017 | 21 | 97 | 3 | 2676 |
+| last720d | 2024-11-12 | 100 | 1449 | 21 | 177 | 3 | 3216 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for jco lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:47:44Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:47:32Z._
