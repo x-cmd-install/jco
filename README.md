@@ -33,27 +33,27 @@ Total: **324,674** lines of code across **2537** files in the top 5 languages.
 ## Release
 
 - **Latest**: `jco-v1.42.0` (2026-11-13)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 1,017 · **Forks**: 147 · **Open issues**: 390 · **Contributors**: 91
+- **Stars**: 1,018 · **Forks**: 147 · **Open issues**: 390 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 332 · **Merged PRs**: 1822 · **Open PRs**: 8 · **Closed issues**: 385 · **Open issues**: 5 · **Commits**: 3953
+- **Releases**: 332 · **Merged PRs**: 1824 · **Open PRs**: 6 · **Closed issues**: 385 · **Open issues**: 5 · **Commits**: 3955
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 21 | 150 | 8 | 16 | 0 | 392 |
-| last60d | 2026-09-16 | 57 | 271 | 8 | 25 | 0 | 694 |
-| 90d | 2026-08-17 | 97 | 502 | 8 | 31 | 1 | 1581 |
-| last180d | 2026-05-19 | 100 | 810 | 8 | 63 | 2 | 2256 |
-| 360d | 2025-11-20 | 100 | 1084 | 8 | 107 | 2 | 2939 |
-| last720d | 2024-11-25 | 100 | 1519 | 8 | 187 | 2 | 3481 |
+| 30d | 2026-10-17 | 19 | 149 | 6 | 16 | 0 | 394 |
+| last60d | 2026-09-17 | 56 | 273 | 6 | 24 | 0 | 696 |
+| 90d | 2026-08-18 | 97 | 500 | 6 | 30 | 1 | 1583 |
+| last180d | 2026-05-20 | 100 | 803 | 6 | 63 | 2 | 2258 |
+| 360d | 2025-11-21 | 100 | 1086 | 6 | 107 | 2 | 2941 |
+| last720d | 2024-11-26 | 100 | 1520 | 6 | 187 | 2 | 3481 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for jco lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:17:10Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:31:20Z._
