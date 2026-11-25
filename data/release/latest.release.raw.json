@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 201327,
       "digest": "sha256:9dd8231ea49360cbfbb1b5084a023e3cd690ce3b24d6a95a36e4cc1adbe577fa",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-13T17:15:17Z",
       "updated_at": "2026-11-13T17:15:17Z",
       "browser_download_url": "https://github.com/bytecodealliance/jco/releases/download/jco-v1.42.0/bytecodealliance-jco-1.42.0.tgz"
