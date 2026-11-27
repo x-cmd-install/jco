@@ -1,0 +1,195 @@
+about:
+  description: "JavaScript toolchain for working with WebAssembly Components"
+  license: Apache-2.0
+  homepage: https://bytecodealliance.github.io/jco/
+  head: a0575f0
+  archived: false
+  latestVersion: "jco-v1.42.0"
+  latestRelease: "jco-v1.42.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-27T09:40:07Z
+timeline:
+  created: 2022-12-09
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-13
+  lastRelease: 2026-11-13
+  lastPrerelease: 
+popularity:
+  star: 1020
+  watcher: 9
+  fork: 153
+  release: 332
+  contributor: 96
+  pullRequest: 2144
+  issue: 404
+language:
+  TypeScript: 7188638
+  Rust: 2650540
+  JavaScript: 1423886
+  Just: 28845
+  C: 10994
+  Python: 9284
+  WebAssembly: 4085
+  Shell: 3941
+  C++: 2435
+  HTML: 1280
+  MoonBit: 427
+totalBytes: 11324355
+recent:
+  last30d:
+    since: 2026-10-28
+    release: 18
+    mergedPR: 150
+    openPR: 1
+    closedIssue: 23
+    openIssue: 1
+    commit: 569
+  last60d:
+    since: 2026-09-28
+    release: 50
+    mergedPR: 283
+    openPR: 2
+    closedIssue: 36
+    openIssue: 1
+    commit: 885
+  last90d:
+    since: 2026-08-29
+    release: 74
+    mergedPR: 468
+    openPR: 2
+    closedIssue: 41
+    openIssue: 2
+    commit: 1745
+  last180d:
+    since: 2026-05-31
+    release: 100
+    mergedPR: 811
+    openPR: 2
+    closedIssue: 73
+    openIssue: 3
+    commit: 2469
+  last360d:
+    since: 2025-12-02
+    release: 100
+    mergedPR: 1126
+    openPR: 2
+    closedIssue: 119
+    openIssue: 3
+    commit: 3189
+  last720d:
+    since: 2024-12-07
+    release: 100
+    mergedPR: 1570
+    openPR: 2
+    closedIssue: 195
+    openIssue: 3
+    commit: 3741
+total:
+  release: 332
+  mergedPR: 1875
+  openPR: 2
+  closedIssue: 400
+  openIssue: 4
+  commit: 4215
+---
+path: /home/runner/.x-repo/github.com/bytecodealliance/jco
+collectedAt: 2026-11-27T09:40:40Z
+loc:
+  TypeScript:
+    code: 180149
+    comments: 24673
+    blanks: 17731
+    files: 1823
+  WebAssembly:
+    code: 54972
+    comments: 2405
+    blanks: 2339
+    files: 207
+  Rust:
+    code: 52840
+    comments: 1999
+    blanks: 3763
+    files: 178
+  JavaScript:
+    code: 42908
+    comments: 2930
+    blanks: 3717
+    files: 443
+  Yaml:
+    code: 8888
+    comments: 16
+    blanks: 2138
+    files: 7
+  Json:
+    code: 3357
+    comments: 0
+    blanks: 6
+    files: 84
+  Toml:
+    code: 955
+    comments: 98
+    blanks: 140
+    files: 32
+  Python:
+    code: 317
+    comments: 11
+    blanks: 96
+    files: 7
+  C:
+    code: 305
+    comments: 21
+    blanks: 62
+    files: 8
+  Html:
+    code: 240
+    comments: 31
+    blanks: 3
+    files: 7
+  Css:
+    code: 233
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 143
+    comments: 0
+    blanks: 4
+    files: 1
+  Svelte:
+    code: 85
+    comments: 0
+    blanks: 9
+    files: 1
+  Sh:
+    code: 78
+    comments: 20
+    blanks: 21
+    files: 3
+  Cpp:
+    code: 76
+    comments: 0
+    blanks: 19
+    files: 4
+  Protobuf:
+    code: 11
+    comments: 2
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 16291
+    blanks: 7710
+    files: 179
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 346343
+  comments: 51358
+  blanks: 38398
+  files: 2987
+---
+
+---
